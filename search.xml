@@ -4,11 +4,49 @@
   
     
     <entry>
+      <title>Project - bridge deck runoff</title>
+      <link href="/2022/10/08/bridge-deck-runoff/"/>
+      <url>/2022/10/08/bridge-deck-runoff/</url>
+      
+        <content type="html"><![CDATA[<h4 id="In-this-project-we-studied-the-bridge-deck-runoff-and-the-pollutants-The-drainage-system-was-also-optimized-using-SWMM-An-automatic-modeling-method-was-developed"><a href="#In-this-project-we-studied-the-bridge-deck-runoff-and-the-pollutants-The-drainage-system-was-also-optimized-using-SWMM-An-automatic-modeling-method-was-developed" class="headerlink" title="In this project, we studied the bridge deck runoff and the pollutants. The drainage system was also optimized using SWMM. An automatic modeling method was developed."></a>In this project, we studied the bridge deck runoff and the pollutants. The drainage system was also optimized using SWMM. An automatic modeling method was developed.</h4><p><img src="/2022/10/08/bridge-deck-runoff/bridge1.png" alt="bridge model"><br><img src="/2022/10/08/bridge-deck-runoff/bridge2.png" alt="bridge model"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Research </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Project - water distribution system</title>
+      <link href="/2022/10/08/epanet/"/>
+      <url>/2022/10/08/epanet/</url>
+      
+        <content type="html"><![CDATA[<h4 id="In-this-project-we-studied-and-optimized-the-complex-water-distribution-system-in-Sichuan-province-using-EPANET-model"><a href="#In-this-project-we-studied-and-optimized-the-complex-water-distribution-system-in-Sichuan-province-using-EPANET-model" class="headerlink" title="In this project, we studied and optimized the complex water distribution system in Sichuan province using EPANET model."></a>In this project, we studied and optimized the complex water distribution system in Sichuan province using EPANET model.</h4><h2 id><a href="#" class="headerlink" title="  "></a><img src="/2022/10/08/epanet/1.png" alt="epanet">  </h2><p><a href="https://www.epa.gov/water-research/epanet">EPANET</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Research </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Article-related 2022</title>
       <link href="/2022/10/08/Article-nh/"/>
       <url>/2022/10/08/Article-nh/</url>
       
-        <content type="html"><![CDATA[<h3 id="Liu-F-Sasaki-J-Chen-J-and-Wang-Y-Numerical-assessment-of-coastal-multihazard-vulnerability-in-Tokyo-Bay-Nat-Hazards-2022"><a href="#Liu-F-Sasaki-J-Chen-J-and-Wang-Y-Numerical-assessment-of-coastal-multihazard-vulnerability-in-Tokyo-Bay-Nat-Hazards-2022" class="headerlink" title="Liu, F., Sasaki, J., Chen, J. and Wang, Y. Numerical assessment of coastal multihazard vulnerability in Tokyo Bay. Nat Hazards, 2022."></a>Liu, F., Sasaki, J., Chen, J. and Wang, Y. Numerical assessment of coastal multihazard vulnerability in Tokyo Bay. Nat Hazards, 2022.</h3><p><a href="https://doi.org/10.1007/s11069-022-05533-2">access link</a>  </p><h3 id="animations"><a href="#animations" class="headerlink" title="animations"></a>animations</h3>]]></content>
+        <content type="html"><![CDATA[<h3 id="Liu-F-Sasaki-J-Chen-J-and-Wang-Y-Numerical-assessment-of-coastal-multihazard-vulnerability-in-Tokyo-Bay-Nat-Hazards-2022"><a href="#Liu-F-Sasaki-J-Chen-J-and-Wang-Y-Numerical-assessment-of-coastal-multihazard-vulnerability-in-Tokyo-Bay-Nat-Hazards-2022" class="headerlink" title="Liu, F., Sasaki, J., Chen, J. and Wang, Y. Numerical assessment of coastal multihazard vulnerability in Tokyo Bay. Nat Hazards, 2022."></a>Liu, F., Sasaki, J., Chen, J. and Wang, Y. Numerical assessment of coastal multihazard vulnerability in Tokyo Bay. Nat Hazards, 2022.</h3><p><a href="https://doi.org/10.1007/s11069-022-05533-2">access link</a>  </p><h3 id="animations"><a href="#animations" class="headerlink" title="animations"></a>animations</h3><h4 id="only-storm-surge"><a href="#only-storm-surge" class="headerlink" title="only storm surge"></a>only storm surge</h4><ul><li>Tokyo Bay:<br><img src="/2022/10/08/Article-nh/tb2_300ms_only_stormsurge.gif" alt="Tokyo Bay">  </li><li>Wide area:<br><img src="/2022/10/08/Article-nh/whole_300ms_only_stormsurge.gif" alt="Wide area"></li></ul><h4 id="only-tsunami"><a href="#only-tsunami" class="headerlink" title="only tsunami"></a>only tsunami</h4><ul><li>Tokyo inland earthquake<br><img src="/2022/10/08/Article-nh/whole_300ms.gif" alt="Tokyo inland earthquake"></li></ul><h4 id="multi-hazard-vulnerability"><a href="#multi-hazard-vulnerability" class="headerlink" title="multi-hazard vulnerability"></a>multi-hazard vulnerability</h4><ul><li>nonlinearity<br><img src="/2022/10/08/Article-nh/5.png" alt="nonlinearity">  </li><li>In Yokohama Port<br><img src="/2022/10/08/Article-nh/1.png" alt="In Yokohama Port"></li></ul>]]></content>
       
       
       <categories>
@@ -27,7 +65,7 @@
       <link href="/2022/10/08/Article-sr/"/>
       <url>/2022/10/08/Article-sr/</url>
       
-        <content type="html"><![CDATA[<h3 id="Liu-F-Sasaki-J-Hybrid-methods-combining-atmospheric-reanalysis-data-and-a-parametric-typhoon-model-to-hindcast-storm-surges-in-Tokyo-Bay-Scientific-Reports-9-12222-2019"><a href="#Liu-F-Sasaki-J-Hybrid-methods-combining-atmospheric-reanalysis-data-and-a-parametric-typhoon-model-to-hindcast-storm-surges-in-Tokyo-Bay-Scientific-Reports-9-12222-2019" class="headerlink" title="Liu, F., Sasaki, J. Hybrid methods combining atmospheric reanalysis data and a parametric typhoon model to hindcast storm surges in Tokyo Bay. Scientific Reports, 9, 12222, 2019."></a>Liu, F., Sasaki, J. Hybrid methods combining atmospheric reanalysis data and a parametric typhoon model to hindcast storm surges in Tokyo Bay. Scientific Reports, 9, 12222, 2019.</h3><p><a href="https://www.nature.com/articles/s41598-019-48728-7">access link</a>  </p><h3 id="animations"><a href="#animations" class="headerlink" title="animations"></a>animations</h3>]]></content>
+        <content type="html"><![CDATA[<h3 id="Liu-F-Sasaki-J-Hybrid-methods-combining-atmospheric-reanalysis-data-and-a-parametric-typhoon-model-to-hindcast-storm-surges-in-Tokyo-Bay-Scientific-Reports-9-12222-2019"><a href="#Liu-F-Sasaki-J-Hybrid-methods-combining-atmospheric-reanalysis-data-and-a-parametric-typhoon-model-to-hindcast-storm-surges-in-Tokyo-Bay-Scientific-Reports-9-12222-2019" class="headerlink" title="Liu, F., Sasaki, J. Hybrid methods combining atmospheric reanalysis data and a parametric typhoon model to hindcast storm surges in Tokyo Bay. Scientific Reports, 9, 12222, 2019."></a>Liu, F., Sasaki, J. Hybrid methods combining atmospheric reanalysis data and a parametric typhoon model to hindcast storm surges in Tokyo Bay. Scientific Reports, 9, 12222, 2019.</h3><p><a href="https://www.nature.com/articles/s41598-019-48728-7">access link</a>  </p><h3 id="animations"><a href="#animations" class="headerlink" title="animations"></a>animations</h3><h4 id="Typhoon-8506"><a href="#Typhoon-8506" class="headerlink" title="Typhoon 8506"></a>Typhoon 8506</h4><ul><li>NCEP<br><img src="/2022/10/08/Article-sr/198506180707_200ms.gif" alt="wind">    </li><li>ERA5<br><img src="/2022/10/08/Article-sr/era5-200ms.gif" alt="wind">  </li><li>Storm surge<br><img src="/2022/10/08/Article-sr/tokyo.gif" alt="Tokyo Bay"><br><img src="/2022/10/08/Article-sr/wide.gif" alt="Wide area"></li></ul>]]></content>
       
       
       <categories>
@@ -46,7 +84,7 @@
       <link href="/2022/10/08/lisflood-demo/"/>
       <url>/2022/10/08/lisflood-demo/</url>
       
-        <content type="html"><![CDATA[<h4 id="It’s-an-example-of-Lisflood-fp-v8-1-model"><a href="#It’s-an-example-of-Lisflood-fp-v8-1-model" class="headerlink" title="It’s an example of Lisflood-fp (v8.1) model."></a>It’s an example of Lisflood-fp (v8.1) model.</h4><ul><li>mesh: 100 m×100 m domain descritized by 5 m×5 m grid units</li><li>the computation condition and results are shown below:  </li><li>DEM:<br><img src="/2022/10/08/lisflood-demo/dem_5m100m_course1_3d.png" alt="DEM"></li></ul><ol><li>BDY condition: constant inflow at right boundary</li></ol><ul><li>flow field:<br><img src="/2022/10/08/lisflood-demo/demo_results2.gif" alt="flow field"></li><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_3D_Option2.gif" alt="water surface variation in 3D"></li></ul><ol start="2"><li>BDY condition: varying inflow at right boundary</li></ol><ul><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_results7.gif" alt="water surface variation in 3D"></li></ul>]]></content>
+        <content type="html"><![CDATA[<h4 id="It’s-an-example-of-Lisflood-fp-v8-1-model"><a href="#It’s-an-example-of-Lisflood-fp-v8-1-model" class="headerlink" title="It’s an example of Lisflood-fp (v8.1) model."></a>It’s an example of Lisflood-fp (v8.1) model.</h4><ul><li>mesh: 100 m×100 m domain discretized by 5 m×5 m grid units</li><li>the computation condition and results are shown below:  </li><li>DEM:<br><img src="/2022/10/08/lisflood-demo/dem_5m100m_course1_3d.png" alt="DEM"></li></ul><ol><li>BDY condition: constant inflow at right boundary</li></ol><ul><li>flow field:<br><img src="/2022/10/08/lisflood-demo/demo_results2.gif" alt="flow field"></li><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_3D_Option2.gif" alt="water surface variation in 3D"></li></ul><ol start="2"><li>BDY condition: varying inflow at right boundary</li></ol><ul><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_results7.gif" alt="water surface variation in 3D"></li></ul>]]></content>
       
       
       <categories>
@@ -65,7 +103,7 @@
       <link href="/2022/10/08/scientific-plot/"/>
       <url>/2022/10/08/scientific-plot/</url>
       
-        <content type="html"><![CDATA[<h4 id="These-are-some-examples-in-the-postgraduate-course-科学数据处理与分析-using-matplotlib"><a href="#These-are-some-examples-in-the-postgraduate-course-科学数据处理与分析-using-matplotlib" class="headerlink" title="These are some examples in the postgraduate course (科学数据处理与分析) using matplotlib."></a>These are some examples in the postgraduate course (科学数据处理与分析) using matplotlib.</h4><p><img src="/2022/10/08/scientific-plot/grid.png" alt="grid"><br><img src="/2022/10/08/scientific-plot/demo_contourf_hot.png" alt="demo_contourf_hot"><br><img src="/2022/10/08/scientific-plot/demo_contourf_jet.png" alt="demo_contourf_jet"><br><img src="/2022/10/08/scientific-plot/demo_3D_jet1.png" alt="demo_3D_jet"></p><hr><p><a href="https://numpy.org/">numpy</a><br><a href="https://matplotlib.org/">matplotlib</a>  </p>]]></content>
+        <content type="html"><![CDATA[<h4 id="These-are-some-examples-in-the-postgraduate-course-科学数据处理与分析-starting-from-the-autumn-semester-in-2022-using-matplotlib"><a href="#These-are-some-examples-in-the-postgraduate-course-科学数据处理与分析-starting-from-the-autumn-semester-in-2022-using-matplotlib" class="headerlink" title="These are some examples in the postgraduate course (科学数据处理与分析) starting from the autumn semester in 2022 using matplotlib."></a>These are some examples in the postgraduate course (科学数据处理与分析) starting from the autumn semester in 2022 using matplotlib.</h4><p><img src="/2022/10/08/scientific-plot/grid.png" alt="grid"><br><img src="/2022/10/08/scientific-plot/demo_contourf_hot.png" alt="demo_contourf_hot"><br><img src="/2022/10/08/scientific-plot/demo_contourf_jet.png" alt="demo_contourf_jet"><br><img src="/2022/10/08/scientific-plot/demo_3D_jet1.png" alt="demo_3D_jet"></p><hr><p><a href="https://numpy.org/">numpy</a><br><a href="https://matplotlib.org/">matplotlib</a>  </p>]]></content>
       
       
       <categories>
@@ -84,7 +122,7 @@
       <link href="/2022/10/08/About-me/"/>
       <url>/2022/10/08/About-me/</url>
       
-        <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><ul><li>Dr. Fei LIU (刘非) received his Ph.D. in 2020. He is now working at Chongqing Jiaotong University (重庆交通大学) (2020-).  </li><li>Dr. Liu’s research interests include the development of novel methods in urban flood and coastal inundation management as well as the applications.</li><li>Undergraduate Courses: Simulation Technology for Urban Stormwater (城市雨洪模拟技术), Urban Flood Defence and Stormwater Management (城镇防洪与雨水管理), Building Fire Engineering (建筑消防工程)</li><li>Postgraduate Courses: Process and analysis of scientific data (科学数据处理与分析)</li></ul><h3 id="To-prospective-students"><a href="#To-prospective-students" class="headerlink" title="To prospective students:"></a>To prospective students:</h3><ul><li>Due to the rapid urbanization and climate change, heavy rainfall is likely to happen in a more frequent and intensive manner. To better understand the characteristics and mechanism of urban flood in this context, numerical models can be applied. Basically, in my team, one-dimensional model like SWMM, and two-dimensional models such as FVCOM and Lisflood are used. To know more, you can access the links in the bottom.</li><li>The inundation induced by storm surge, tsunami and river flood in coastal area (e.g., Tokyo Bay) is also studied using numerical models like FVCOM.</li><li>Now five postgraduate students are studying under my guidance. I also collaborate with other professors of our department in supervising students. If you are interested in the topics, welcome to join us.</li><li>Please feel free to contact me: <a href="mailto:&#102;&#x65;&#x69;&#46;&#108;&#105;&#117;&#64;&#x63;&#x71;&#x6a;&#116;&#117;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;">&#102;&#x65;&#x69;&#46;&#108;&#105;&#117;&#64;&#x63;&#x71;&#x6a;&#116;&#117;&#x2e;&#101;&#x64;&#117;&#x2e;&#x63;&#110;</a></li></ul><hr><p><a href="https://www.epa.gov/water-research/storm-water-management-model-swmm">SWMM</a><br><a href="http://fvcom.smast.umassd.edu/">FVCOM</a><br><a href="https://www.bristol.ac.uk/geography/research/hydrology/models/lisflood/downloads/">Lisflood</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="About-Me"><a href="#About-Me" class="headerlink" title="About Me"></a>About Me</h3><ul><li>Dr. Fei LIU (刘非) received his Ph.D. in 2020. He is now working at Chongqing Jiaotong University (重庆交通大学) (2020-).  </li><li>Dr. Liu’s research interests include the development of novel methods in urban flood and coastal inundation management as well as the applications.</li><li>Undergraduate Courses: Simulation Technology for Urban Stormwater (城市雨洪模拟技术), Urban Flood Defence and Stormwater Management (城镇防洪与雨水管理), Building Fire Engineering (建筑消防工程)</li><li>Postgraduate Courses: Process and analysis of scientific data (科学数据处理与分析)</li></ul><h3 id="To-prospective-students"><a href="#To-prospective-students" class="headerlink" title="To prospective students:"></a>To prospective students:</h3><ul><li>Due to the rapid urbanization and climate change, heavy rainfall is likely to happen in a more frequent and intensive manner. To better understand the characteristics and mechanism of urban flood in this context, numerical models can be applied. Basically, in my team, one-dimensional model like SWMM, and two-dimensional models such as FVCOM and Lisflood are used. To know more, you can access the links in the bottom.</li><li>The inundation induced by storm surge, tsunami and river flood in coastal area (e.g., Tokyo Bay) is also studied using numerical models like FVCOM.</li><li>Now five postgraduate students are studying under my guidance. I also collaborate with other professors of our department in supervising students. If you are interested in the topics, welcome to join us.</li><li>Please feel free to contact me: <a href="mailto:&#102;&#x65;&#x69;&#46;&#108;&#105;&#117;&#64;&#99;&#x71;&#x6a;&#116;&#x75;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#110;">&#102;&#x65;&#x69;&#46;&#108;&#105;&#117;&#64;&#99;&#x71;&#x6a;&#116;&#x75;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#110;</a></li></ul><hr><p><a href="https://www.epa.gov/water-research/storm-water-management-model-swmm">SWMM</a><br><a href="http://fvcom.smast.umassd.edu/">FVCOM</a><br><a href="https://www.bristol.ac.uk/geography/research/hydrology/models/lisflood/downloads/">Lisflood</a></p>]]></content>
       
       
       <categories>
