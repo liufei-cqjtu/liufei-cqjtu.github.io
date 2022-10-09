@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>lisflood-Chongqing</title>
+      <link href="/2022/10/09/lisflood-cq/"/>
+      <url>/2022/10/09/lisflood-cq/</url>
+      
+        <content type="html"><![CDATA[<h4 id="Lisflood-fp-v8-1-is-applied-to-study-the-rainfall-runoff-process-in-an-urban-area-in-Chongqing"><a href="#Lisflood-fp-v8-1-is-applied-to-study-the-rainfall-runoff-process-in-an-urban-area-in-Chongqing" class="headerlink" title="Lisflood-fp (v8.1) is applied to study the rainfall-runoff process in an urban area in Chongqing."></a>Lisflood-fp (v8.1) is applied to study the rainfall-runoff process in an urban area in Chongqing.</h4><ul><li>DEM: 30 m resolution  </li><li>Grid number: 4824  </li><li>animation:<br><img src="/2022/10/09/lisflood-cq/results_0.1_winter.gif" alt="lisflood"></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Research </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CMEC Project</title>
       <link href="/2022/10/09/jiaowei-project/"/>
       <url>/2022/10/09/jiaowei-project/</url>
@@ -137,11 +156,11 @@
     
     
     <entry>
-      <title>lisflood-demo</title>
+      <title>lisflood - A test</title>
       <link href="/2022/10/08/lisflood-demo/"/>
       <url>/2022/10/08/lisflood-demo/</url>
       
-        <content type="html"><![CDATA[<h4 id="It’s-an-example-of-Lisflood-fp-v8-1-model"><a href="#It’s-an-example-of-Lisflood-fp-v8-1-model" class="headerlink" title="It’s an example of Lisflood-fp (v8.1) model."></a>It’s an example of Lisflood-fp (v8.1) model.</h4><ul><li>mesh: 100 m×100 m domain discretized by 5 m×5 m grid units</li><li>the computation condition and results are shown below:  </li><li>DEM:<br><img src="/2022/10/08/lisflood-demo/dem_5m100m_course1_3d.png" alt="DEM"></li></ul><ol><li>BDY condition: constant inflow at right boundary</li></ol><ul><li>flow field:<br><img src="/2022/10/08/lisflood-demo/demo_results2.gif" alt="flow field"></li><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_3D_Option2.gif" alt="water surface variation in 3D"></li></ul><ol start="2"><li>BDY condition: varying inflow at right boundary</li></ol><ul><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_results7.gif" alt="water surface variation in 3D"></li></ul><h5 id="The-above-cases-and-figures-are-provided-by-Dr-Liu-If-you-have-any-questions-please-contact-Dr-Liu"><a href="#The-above-cases-and-figures-are-provided-by-Dr-Liu-If-you-have-any-questions-please-contact-Dr-Liu" class="headerlink" title="The above cases and figures are provided by Dr. Liu. If you have any questions, please contact Dr. Liu."></a>The above cases and figures are provided by Dr. Liu. If you have any questions, please contact Dr. Liu.</h5>]]></content>
+        <content type="html"><![CDATA[<h4 id="It’s-a-test-of-Lisflood-fp-v8-1-model"><a href="#It’s-a-test-of-Lisflood-fp-v8-1-model" class="headerlink" title="It’s a test of Lisflood-fp (v8.1) model."></a>It’s a test of Lisflood-fp (v8.1) model.</h4><ul><li>mesh: 100 m×100 m domain discretized by 5 m×5 m grid units</li><li>the computation condition and results are shown below:  </li><li>DEM:<br><img src="/2022/10/08/lisflood-demo/dem_5m100m_course1_3d.png" alt="DEM"></li></ul><ol><li>BDY condition: constant inflow at right boundary</li></ol><ul><li>flow field:<br><img src="/2022/10/08/lisflood-demo/demo_results2.gif" alt="flow field"></li><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_3D_Option2.gif" alt="water surface variation in 3D"></li></ul><ol start="2"><li>BDY condition: varying inflow at right boundary</li></ol><ul><li>water surface variation in 3D:<br><img src="/2022/10/08/lisflood-demo/demo_results7.gif" alt="water surface variation in 3D"></li></ul><h5 id="The-above-cases-and-figures-are-provided-by-Dr-Liu-If-you-have-any-questions-please-contact-Dr-Liu"><a href="#The-above-cases-and-figures-are-provided-by-Dr-Liu-If-you-have-any-questions-please-contact-Dr-Liu" class="headerlink" title="The above cases and figures are provided by Dr. Liu. If you have any questions, please contact Dr. Liu."></a>The above cases and figures are provided by Dr. Liu. If you have any questions, please contact Dr. Liu.</h5>]]></content>
       
       
       <categories>
